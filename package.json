@@ -1,0 +1,16 @@
+{
+  "name": "bdjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dartrix",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "request": "^2.81.0",
+    "website-to-json": "^1.0.9"
+  }
+}
