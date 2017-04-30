@@ -1,5 +1,5 @@
 {
   "token": "",
-  "channel": "bt-stats",
+  "channels": "bt-stats",
   "prefix": "!"
 }
